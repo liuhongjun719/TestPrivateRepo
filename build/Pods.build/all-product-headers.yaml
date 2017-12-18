@@ -1,0 +1,233 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/CustomIOSAlertView/CustomIOSAlertView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CustomIOSAlertView-Swift.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/CustomIOSAlertView/CustomIOSAlertView.framework/Headers/CustomIOSAlertView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CustomIOSAlertView-umbrella.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/Target Support Files/CustomIOSAlertView/CustomIOSAlertView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "CustomIOSAlertView.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/CustomIOSAlertView/CustomIOSAlertView/CustomIOSAlertView/View/CustomIOSAlertView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/CustomIOSAlertView/CustomIOSAlertView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Pods.build/Debug-iphoneos/CustomIOSAlertView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/FCAlertView/FCAlertView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FCAlertView-Swift.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/FCAlertView/FCAlertView.framework/Headers/FCAlertView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FCAlertView-umbrella.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/Target Support Files/FCAlertView/FCAlertView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FCAlertView.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/FCAlertView/FCAlertView/Classes/FCAlertView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/FCAlertView/FCAlertView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Pods.build/Debug-iphoneos/FCAlertView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/MBProgressHUD/MBProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MBProgressHUD-Swift.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MBProgressHUD-umbrella.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MBProgressHUD.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/MBProgressHUD/MBProgressHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/MBProgressHUD/MBProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Pods.build/Debug-iphoneos/MBProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/MyAdditions/MyAdditions.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MyAdditions-Swift.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/MyAdditions/MyAdditions.framework/Headers/MyAdditions-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MyAdditions-umbrella.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/Target Support Files/MyAdditions/MyAdditions-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "NetworkManage.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/MyAdditions/MyAdditions/NetworkManage.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/MyAdditions/MyAdditions.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Pods.build/Debug-iphoneos/MyAdditions.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/Pods_MyFrameworkTest.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-MyFrameworkTest-umbrella.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/Target Support Files/Pods-MyFrameworkTest/Pods-MyFrameworkTest-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_MyFrameworkTest-Swift.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/Pods_MyFrameworkTest.framework/Headers/Pods_MyFrameworkTest-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/Pods_MyFrameworkTest.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Pods.build/Debug-iphoneos/Pods-MyFrameworkTest.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SCLAlertView-Objective-C-umbrella.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/Target Support Files/SCLAlertView-Objective-C/SCLAlertView-Objective-C-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLAlertView.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLAlertView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLAlertViewResponder.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLAlertViewResponder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLAlertViewStyleKit.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLAlertViewStyleKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLAlertView_Objective_C-Swift.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework/Headers/SCLAlertView_Objective_C-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLButton.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLMacros.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLSwitchView.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLSwitchView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLTextView.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SCLTimerDisplay.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/SCLTimerDisplay.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+ImageEffects.h",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/Pods/SCLAlertView-Objective-C/SCLAlertView/UIImage+ImageEffects.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Debug-iphoneos/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/luoxiaohua/Desktop/Test2/MyFrameworkTest/build/Pods.build/Debug-iphoneos/SCLAlertView-Objective-C.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
