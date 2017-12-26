@@ -89,6 +89,7 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_framework "$BUILT_PRODUCTS_DIR/CookieUtil/CookieUtil.framework"
   install_framework "$BUILT_PRODUCTS_DIR/CustomIOSAlertView/CustomIOSAlertView.framework"
   install_framework "$BUILT_PRODUCTS_DIR/FCAlertView/FCAlertView.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MBProgressHUD/MBProgressHUD.framework"
@@ -96,6 +97,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_framework "$BUILT_PRODUCTS_DIR/CookieUtil/CookieUtil.framework"
   install_framework "$BUILT_PRODUCTS_DIR/CustomIOSAlertView/CustomIOSAlertView.framework"
   install_framework "$BUILT_PRODUCTS_DIR/FCAlertView/FCAlertView.framework"
   install_framework "$BUILT_PRODUCTS_DIR/MBProgressHUD/MBProgressHUD.framework"

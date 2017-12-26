@@ -12,6 +12,7 @@
 #import "FCAlertView.h"
 //#import <CustomIOSAlertView.h>
 #import "NetworkManage.h"
+#import "CookieUtil.h"
 
 
 
@@ -32,13 +33,14 @@ NSString *kAttributeTitle = @"Attributed string operation successfully completed
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    MyUtils *utils = [MyUtils new];
-    [utils log:@"didFinishLaunchingWithOptions"];
-    NSLog(@"verson====:%f", MyFrameworkVersionNumber);
+//    MyUtils *utils = [MyUtils new];
+//    [utils log:@"didFinishLaunchingWithOptions"];
+//    NSLog(@"verson====:%f", MyFrameworkVersionNumber);
     
 //    TestClass *testClass = [[TestClass alloc] initWithView:self.view];
     
-
+    [CookieUtil setCookiePolicy];
+    [CookieUtil deleteCookie];
     
 }
 

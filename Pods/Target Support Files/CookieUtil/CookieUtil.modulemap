@@ -1,0 +1,6 @@
+framework module CookieUtil {
+  umbrella header "CookieUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}
