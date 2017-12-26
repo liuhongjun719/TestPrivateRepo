@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '422EB3B7FCA06ACD546613385096313B'
+               BlueprintIdentifier = '4A191C0C7D0D6EB0C57E9E1670D586B5'
                BlueprintName = 'CookieUtil'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'CookieUtil.framework'>

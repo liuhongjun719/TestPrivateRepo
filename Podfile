@@ -12,6 +12,6 @@ pod 'SCLAlertView-Objective-C'
 pod 'FCAlertView'
 pod 'CustomIOSAlertView', '~> 0.9.5'
 pod 'MyAdditions' #我的私有库
-pod 'CookieUtil'
+pod 'CookieUtil','0.0.6'
 end
 

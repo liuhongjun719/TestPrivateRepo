@@ -7,4 +7,25 @@ dependencies: \
   /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/MyFrameworkTest/MyFramework.framework/Headers/MyFramework.h \
   /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/FCAlertView/FCAlertView.framework/Headers/FCAlertView.h \
   /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MyAdditions/MyAdditions.framework/Headers/NetworkManage.h \
-  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/CookieUtil/CookieUtil.framework/Headers/CookieUtil.h
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Modules/module.modulemap \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshNormalHeader.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshStateHeader.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshGifHeader.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshHeader.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/NSBundle+MJRefresh.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJExtension.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/UIView+MJExtension.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshConst.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshComponent.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoFooter.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h

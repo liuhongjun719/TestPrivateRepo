@@ -54,35 +54,35 @@
 		</data>
 		<key>Frameworks/CookieUtil.framework/CookieUtil</key>
 		<data>
-		gmsHtqxCdnqJ+eHCt/tPG+4Xe/A=
+		CVdj/RaGHfGUp6vBGfyYdRNOoiA=
 		</data>
 		<key>Frameworks/CookieUtil.framework/Info.plist</key>
 		<data>
-		JvmlpYIGS45TQusI2F9yf3EJshU=
+		HSTWLx205aNsbHFcVw2DlZo1DkE=
 		</data>
 		<key>Frameworks/CookieUtil.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5xrSycnvOliF0LkHZLgwC9DBK2I=
+		VBTOMY05G3jlR6F6/BGQ0iMxw5o=
 		</data>
 		<key>Frameworks/CustomIOSAlertView.framework/CustomIOSAlertView</key>
 		<data>
-		MmZYDX3hWJam9Hf4t9AFq/80uME=
+		TxYzXkS4ZS1Ka/13DuVchssticM=
 		</data>
 		<key>Frameworks/CustomIOSAlertView.framework/Info.plist</key>
 		<data>
-		kHM4v/rTrNP/3SucESDkH0qtkPc=
+		CgH6rZBlACNFu9B0xsNTz2iENVo=
 		</data>
 		<key>Frameworks/CustomIOSAlertView.framework/_CodeSignature/CodeResources</key>
 		<data>
-		oCCYiap7T05qg11jQB0l+c3caRk=
+		MKOqDDYdzV66A1/V5axYHT6iQec=
 		</data>
 		<key>Frameworks/FCAlertView.framework/FCAlertView</key>
 		<data>
-		acfAdFKmdjtNHExLQOD2LWlNfY8=
+		wYyOErjjJFVIATnJKtKR7OgzE7g=
 		</data>
 		<key>Frameworks/FCAlertView.framework/FCAlertView.bundle/Info.plist</key>
 		<data>
-		JtQO8rEEia+rar4ayjFFN1IDYUo=
+		MxseVZNkPWbOBkLJFVMZBRlXMd0=
 		</data>
 		<key>Frameworks/FCAlertView.framework/FCAlertView.bundle/alert-round.png</key>
 		<data>
@@ -106,35 +106,78 @@
 		</data>
 		<key>Frameworks/FCAlertView.framework/Info.plist</key>
 		<data>
-		L75gfySIY65plIpgLIw6epw9aCQ=
+		+JoXhgL3Sa/IoYRdSXB3BKx+mww=
 		</data>
 		<key>Frameworks/FCAlertView.framework/_CodeSignature/CodeResources</key>
 		<data>
-		H7C45ybn2kNCmblQNp8bTD2uwTo=
+		yu+U024CDPQxq3bXUfuv8aax1pc=
 		</data>
 		<key>Frameworks/MBProgressHUD.framework/Info.plist</key>
 		<data>
-		gSmuW19Ds7xA6QwfENNOWxKZpps=
+		sfet0LNmUlZQNGpEqkxE4TSXyP4=
 		</data>
 		<key>Frameworks/MBProgressHUD.framework/MBProgressHUD</key>
 		<data>
-		65XE32DfUTwkURlnykh52EZ03Hs=
+		YwF5ulyhFcUfvPnxGpB3Wuztf9s=
 		</data>
 		<key>Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources</key>
 		<data>
-		popLqD2yztIKw3QtODBEzEnHyoY=
+		L8EhhuO3kwtnH8dguJ/czIm+2V4=
+		</data>
+		<key>Frameworks/MJRefresh.framework/Info.plist</key>
+		<data>
+		wD6p/xMX4Q/tI5OEgSM8MVFYvyo=
+		</data>
+		<key>Frameworks/MJRefresh.framework/MJRefresh</key>
+		<data>
+		W9RpFMgvyDTnSyVB93fyZAHxLG8=
+		</data>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png</key>
+		<data>
+		5ZENFuDcEgHjDuL7tn7h97HeuSE=
+		</data>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+MqdSIQkOmft3feFB6CbJQkGr7c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DD5bNeaUTksFP2PkSNtokoJkKjU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hjIzn4qLs8xLMnelxOeMouDSaZY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/_CodeSignature/CodeResources</key>
+		<data>
+		BeIfyW9Dw7UlorM30RLyv1LdMOw=
 		</data>
 		<key>Frameworks/MyAdditions.framework/Info.plist</key>
 		<data>
-		P+drKo0y3pP1pdf3i8IIuRm1MA0=
+		7oCUy1Uz3v5r08U3rudF0F3n9is=
 		</data>
 		<key>Frameworks/MyAdditions.framework/MyAdditions</key>
 		<data>
-		aWIcdTrnPCvijBEteVesF+9wDZI=
+		PhFHv1ZiKtobXrDvVrnw03PvftU=
 		</data>
 		<key>Frameworks/MyAdditions.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xIQx7zyMjnxfI7/+ZlxFwmSQ0KI=
+		w8P37PNcQGi9UL8xIkbFKWTSWgY=
 		</data>
 		<key>Frameworks/MyFramework.framework/Info.plist</key>
 		<data>
@@ -166,19 +209,19 @@
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/Info.plist</key>
 		<data>
-		iMahPy7aNvLv5Cm3HO876JVzNo0=
+		WFbezl8DBSf/bbXbrB/jbdw1AbE=
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/SCLAlertView_Objective_C</key>
 		<data>
-		qarPchiHFNLB11GZsgR/gzYlY8o=
+		8u+TIamOm1j4XGh0ISq6hbN63dE=
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources</key>
 		<data>
-		7isfaSMPwDA3Xnk9f33s8X3GBc4=
+		GQ6iEOn7YJxN7uBGG+yprBiNVd0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		H7mNpV9wTyb3Tjq0pFIffoEFGmg=
+		WlJPt1t4AKBQdkXnLaZY0vXSD2M=
 		</data>
 		<key>MyFrameworkTest.momd/MyFrameworkTest.mom</key>
 		<data>
@@ -339,88 +382,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gmsHtqxCdnqJ+eHCt/tPG+4Xe/A=
+			CVdj/RaGHfGUp6vBGfyYdRNOoiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xny6c9JhqASmj6GrgY8pdS/LcAELPh213fDdoZq91CU=
+			wic88zl7QnthsRNuhL5E2HtgjBNp0JJ8COnLZjP09HQ=
 			</data>
 		</dict>
 		<key>Frameworks/CookieUtil.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JvmlpYIGS45TQusI2F9yf3EJshU=
+			HSTWLx205aNsbHFcVw2DlZo1DkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			rmwu5bcY22Oc70mAk8GqoHsRicwd7UD3OwjskBvwlPY=
+			Pp7VhG+9wjfMH/Frhf+okL7qG7iK0zbrcVbt5eD5HJM=
 			</data>
 		</dict>
 		<key>Frameworks/CookieUtil.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5xrSycnvOliF0LkHZLgwC9DBK2I=
+			VBTOMY05G3jlR6F6/BGQ0iMxw5o=
 			</data>
 			<key>hash2</key>
 			<data>
-			mkqNAhnG6bogHdnxCMNaYFQv8b0H77jF3G3H+41pqB8=
+			zTeCVo2MsJSS0ANbj+f5KuZNS1znOwVk6GaMuOmHZpk=
 			</data>
 		</dict>
 		<key>Frameworks/CustomIOSAlertView.framework/CustomIOSAlertView</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MmZYDX3hWJam9Hf4t9AFq/80uME=
+			TxYzXkS4ZS1Ka/13DuVchssticM=
 			</data>
 			<key>hash2</key>
 			<data>
-			P8y9Yzg9fyduJtnnDRK0DaYtTTks5bi3EulpVqHD0ks=
+			vkPn4SuiI6MieKxFGQC0BS3JeY+QiQkHDw1B3l7f5VU=
 			</data>
 		</dict>
 		<key>Frameworks/CustomIOSAlertView.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kHM4v/rTrNP/3SucESDkH0qtkPc=
+			CgH6rZBlACNFu9B0xsNTz2iENVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			oKrL/PuGODw5QfgHV3k6eYjDCNw1E2us2y48+tENs3w=
+			f9pGmdWRbpyO0Y1mXcVSHnLeq1qmf7Gnzii56UUQDHA=
 			</data>
 		</dict>
 		<key>Frameworks/CustomIOSAlertView.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oCCYiap7T05qg11jQB0l+c3caRk=
+			MKOqDDYdzV66A1/V5axYHT6iQec=
 			</data>
 			<key>hash2</key>
 			<data>
-			PJAxn44sIhxZ4xHWpvsMNnGXbL+LzTAbrxwzhiBrxlY=
+			2mlv0jAidJMxAPgcUnGoB+5Gn0GuOgfxF6ixty6Prto=
 			</data>
 		</dict>
 		<key>Frameworks/FCAlertView.framework/FCAlertView</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			acfAdFKmdjtNHExLQOD2LWlNfY8=
+			wYyOErjjJFVIATnJKtKR7OgzE7g=
 			</data>
 			<key>hash2</key>
 			<data>
-			A6sPxK2UoCkVMakYCoo9FbqjI9Y89SNrJDpwru1O8Eg=
+			nhwuJ6pSl4q8EROcfyUxdNvzvXw+7lB+vDz0T0u+qtg=
 			</data>
 		</dict>
 		<key>Frameworks/FCAlertView.framework/FCAlertView.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JtQO8rEEia+rar4ayjFFN1IDYUo=
+			MxseVZNkPWbOBkLJFVMZBRlXMd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7ONHVhvUkqzvXW5fCp2/zxYns6MCBr9UvNJ+OnU6HL0=
+			AZNHLltdWHuuT9VOSMCN1Wnmo1a16u/WhvyT8tW6kIM=
 			</data>
 		</dict>
 		<key>Frameworks/FCAlertView.framework/FCAlertView.bundle/alert-round.png</key>
@@ -482,88 +525,171 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L75gfySIY65plIpgLIw6epw9aCQ=
+			+JoXhgL3Sa/IoYRdSXB3BKx+mww=
 			</data>
 			<key>hash2</key>
 			<data>
-			y0XQq7kixVnydaA5BgLfLNivgx7LGGpSYyOHR7E2nfQ=
+			9vvkTzDyU/fMZIOkui4y+CVoXlc38WFbPMQpZL9TdzE=
 			</data>
 		</dict>
 		<key>Frameworks/FCAlertView.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H7C45ybn2kNCmblQNp8bTD2uwTo=
+			yu+U024CDPQxq3bXUfuv8aax1pc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Owd7wBMIdfI4quAuaaiq1AtrJvVOw0SJXBULBZsYmYA=
+			H4Nzzu7qB/bE1ShiLUKMybb9g+9CPMU/SM8FgRzGyDk=
 			</data>
 		</dict>
 		<key>Frameworks/MBProgressHUD.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gSmuW19Ds7xA6QwfENNOWxKZpps=
+			sfet0LNmUlZQNGpEqkxE4TSXyP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tXDOxiFx1Jo2/HFap5EBWfTko1HqhLjLF7O/A67L3PA=
+			wCfDxm3OXBpDPQi1+il0nLmgdT0ld0weJV59QxkYvpw=
 			</data>
 		</dict>
 		<key>Frameworks/MBProgressHUD.framework/MBProgressHUD</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			65XE32DfUTwkURlnykh52EZ03Hs=
+			YwF5ulyhFcUfvPnxGpB3Wuztf9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			aLe7Vkk0GndgoEvhoP4OR+R8AxMoRs3lEZLK9jcdpcg=
+			+KOBwOnLYK5qw37at+C61Z/wPQrnYtEoWH2qipyvukU=
 			</data>
 		</dict>
 		<key>Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			popLqD2yztIKw3QtODBEzEnHyoY=
+			L8EhhuO3kwtnH8dguJ/czIm+2V4=
 			</data>
 			<key>hash2</key>
 			<data>
-			x7l1u7EQYCkjpcZRE1gG3wY/LEzVCueBTE9ohbY1XOY=
+			MYNpvIOUl0qa8fp1Lb8RKbQ4GFv1p13uJk560ST9W5c=
+			</data>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wD6p/xMX4Q/tI5OEgSM8MVFYvyo=
+			</data>
+			<key>hash2</key>
+			<data>
+			kinnZqc4fUXv9lRAZkQjrfArcb/RpRPe/hB66pSv/t8=
+			</data>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W9RpFMgvyDTnSyVB93fyZAHxLG8=
+			</data>
+			<key>hash2</key>
+			<data>
+			dVlb3siTzwmweY5dzBCTXkHAHbZHa04cAT5DYBzSO6s=
+			</data>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5ZENFuDcEgHjDuL7tn7h97HeuSE=
+			</data>
+			<key>hash2</key>
+			<data>
+			5pZTVM6xOoz5TmObI4Nq10XxwWgOr9sM2We8r8FZAYg=
+			</data>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+MqdSIQkOmft3feFB6CbJQkGr7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			k6E422M45vEs2p2syr9FCVwZCX4z6gPz1FP6ktwFhV0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DD5bNeaUTksFP2PkSNtokoJkKjU=
+			</data>
+			<key>hash2</key>
+			<data>
+			5c2ENj+vfMLxJOnUypY2dhJ3O8hGg7P3PaWrgwX+G0I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hjIzn4qLs8xLMnelxOeMouDSaZY=
+			</data>
+			<key>hash2</key>
+			<data>
+			AteA9vw+ofnahB0RNbonkmUulQC5Co8UvNf/1MwU7a4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/MJRefresh.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BeIfyW9Dw7UlorM30RLyv1LdMOw=
+			</data>
+			<key>hash2</key>
+			<data>
+			kS0aL3/Xt8lQ3TlwIyZiDX6Ymz3CtF9QqVzG7NIfmkg=
 			</data>
 		</dict>
 		<key>Frameworks/MyAdditions.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P+drKo0y3pP1pdf3i8IIuRm1MA0=
+			7oCUy1Uz3v5r08U3rudF0F3n9is=
 			</data>
 			<key>hash2</key>
 			<data>
-			xKc0O1aghHoqjIL2Bb++Ku1tmz6C4xea8VQFKpvBqcU=
+			wVWHQaVH0jy9OHIZFgBJDAqYUAhXhl8fH8yM36uz75k=
 			</data>
 		</dict>
 		<key>Frameworks/MyAdditions.framework/MyAdditions</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aWIcdTrnPCvijBEteVesF+9wDZI=
+			PhFHv1ZiKtobXrDvVrnw03PvftU=
 			</data>
 			<key>hash2</key>
 			<data>
-			s9N0OXlJQLWZZ/Qt6uopR2+FgIR1Z+RXI7G1jNoyX6I=
+			6OWT0mT+e9clb30YcjfS28uexsORMh00pawsHeKw9G4=
 			</data>
 		</dict>
 		<key>Frameworks/MyAdditions.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xIQx7zyMjnxfI7/+ZlxFwmSQ0KI=
+			w8P37PNcQGi9UL8xIkbFKWTSWgY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fa2mMPi1A+QLJVFWEi5R21R1EmVkW1bwWsbcVntONsk=
+			kbxSsXjwgnzOQonSIVIRQPbtUItftAqMf+4SkM0LAVw=
 			</data>
 		</dict>
 		<key>Frameworks/MyFramework.framework/Info.plist</key>
@@ -647,33 +773,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iMahPy7aNvLv5Cm3HO876JVzNo0=
+			WFbezl8DBSf/bbXbrB/jbdw1AbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			+yXalJFrVB+82qjIHwUnyg3aPqjivII1UojY4KBwN8c=
+			vjiazcKtL/gjI/brLFXp+BmT61U9KkqM/n53deYHFO4=
 			</data>
 		</dict>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/SCLAlertView_Objective_C</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qarPchiHFNLB11GZsgR/gzYlY8o=
+			8u+TIamOm1j4XGh0ISq6hbN63dE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1XfKucnsLVFnXCsPI5hf79r54fOSFVbSorXR+06KqlQ=
+			MtZLobwDCiwDdLggJtSu+Q/yNdaLKSUbNYXUybTTmis=
 			</data>
 		</dict>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7isfaSMPwDA3Xnk9f33s8X3GBc4=
+			GQ6iEOn7YJxN7uBGG+yprBiNVd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			qAi10xRJF4EFxn2QX4m7AkiDvbU9/f5xTzQKVnVT9iU=
+			C/lMFQdIeP72HuI1tcmc14hosANMXovY8184Cn60w5s=
 			</data>
 		</dict>
 		<key>MyFrameworkTest.momd/MyFrameworkTest.mom</key>
