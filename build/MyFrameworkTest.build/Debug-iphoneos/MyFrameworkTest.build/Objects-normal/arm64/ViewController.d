@@ -28,4 +28,7 @@ dependencies: \
   /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshComponent.h \
   /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshFooter.h \
   /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoFooter.h \
-  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/CookieUtil/CookieUtil.framework/Modules/module.modulemap \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/CookieUtil/CookieUtil.framework/Headers/CookieUtil.h \
+  /Users/luoxiaohua/Desktop/Test2/TestPrivateRepo/build/Debug-iphoneos/CookieUtil/CookieUtil.framework/Headers/CookieUtil-umbrella.h
